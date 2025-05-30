@@ -7,7 +7,7 @@ Este proyecto muestra cómo instalar, configurar y probar el modelo **DeepSeek R
 
 En el siguiente vídeo tenemos la explicación completa de Amaliometria:
 
-[![DeepSeek en Local - Ver en YouTube](assets/video-thumbnail.png)]([https://www.youtube.com/watch?v=TU_ENLACE](https://www.youtube.com/watch?v=NHe8Eg9dQZk))
+[![DeepSeek en Local - Ver en YouTube](assets/video-thumbnail.png)](https://www.youtube.com/watch?v=NHe8Eg9dQZk)
 
 
 ---
