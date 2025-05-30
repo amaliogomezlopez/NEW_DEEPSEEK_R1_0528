@@ -1,6 +1,6 @@
 # 🔍 DeepSeek R1-0528 en Local
 
-![DeepSeek Running Locally]([assets/deepseek-local-demo.png](https://ibb.co/YB1SwMLR))
+![DeepSeek Running Locally](([https://ibb.co/YB1SwMLR](https://i.ibb.co/tpv6FtJm/Proyecto-nuevo.png)))
 
 Este proyecto muestra cómo instalar, configurar y probar el modelo **DeepSeek R1-0528** completamente en entorno local, sin conexión a internet. Se incluyen ejemplos de uso real, pruebas de rendimiento y casos prácticos para desarrollo, productividad y análisis.
 
